@@ -1,3 +1,5 @@
+var Mouse = require('./mouse')
+
 function cat (argument) {
 	this.stomach = [];
 }
